@@ -1,0 +1,8 @@
+Description: This is requirement for paitents to see their appointments
+Rationale: Without this appointments will be missed and people will waste their time
+Originator: Arosha
+
+Description This is a a requirement for therapists to see appointments
+Rationale: Therapists need to be able to work to a schedule
+Orginator: Arosha
+
