@@ -1,0 +1,7 @@
+REQ-ID: FR2
+Description: This is a requirement for therapists to see appointments
+Type: Functional
+Rationale: Therapists need to be able to work to a schedule
+Originator: Arosha
+Comment:
+
