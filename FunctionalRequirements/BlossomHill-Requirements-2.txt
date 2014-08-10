@@ -3,7 +3,7 @@ Description: This is requirement for patients to see their appointments
 Type: Functional
 Rationale: Without this appointments will be missed and people will waste their time
 Originator: Arosha
-Comment: Duplicate of REQ-3
+Comment: Duplicate of REQ-3 and also ambiguous 
 
 
 
