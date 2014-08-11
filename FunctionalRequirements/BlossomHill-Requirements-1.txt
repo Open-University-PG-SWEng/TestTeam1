@@ -4,5 +4,5 @@ Type: Functional
 Rationale: Therapists need to be able to work to a schedule
 Originator: Arosha
 Comment: This requirment is ambiguous
-Comment: tHIS IS a duplicate requirement
+
 
