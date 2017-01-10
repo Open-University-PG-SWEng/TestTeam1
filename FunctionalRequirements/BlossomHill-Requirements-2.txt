@@ -4,6 +4,7 @@ Type: Functional
 Rationale: Without this appointments will be missed and people will waste their time
 Originator: Arosha
 Comment: Duplicate of REQ-3 and also ambiguous 
+Comment: Where is REQ-3?
 
 
 
