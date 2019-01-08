@@ -21,6 +21,13 @@ Comment: This is a comment from PJ on branch pj-branch
 Comment: This is a comment from MarkVR -> Branched
 Comment: This is a comment from JS on joanna-test branch
 Comment: This is a comment from SA on SA-test branch
+<<<<<<< HEAD
 Comment: This is to check git functionality
 
+=======
+Comment: this is a test commit
+Comment: This is a test comment KJ
+Comment: Test push by Jim-boone
+Comment: Test branch by jim-boone
+>>>>>>> 023080940f3b824b8515b7643205d3a6fa76b2d0
 
