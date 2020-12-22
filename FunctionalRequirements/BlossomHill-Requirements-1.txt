@@ -4,4 +4,4 @@ Type: Functional
 Rationale: Therapists need to be able to work to a schedule
 Originator: Arosha
 Comment: This requirement is ambiguous
-3rd test- difference on this on is???
+22.12.20 Test 1
