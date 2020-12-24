@@ -5,7 +5,6 @@ Rationale: Without this appointments will be missed and people will waste their 
 Originator: Arosha
 Comment: Duplicate of REQ-3 and also ambiguous 
 Comment: Where is REQ-3?
-Comment: Additional comment by PF looking for REQ-3 
 
 
 
