@@ -4,5 +4,5 @@ New line added by Tim Nicholson
 Another new line for new branch
 
 AKB - testing edit of master - merge check
-AKB - adding another line to check if pull command will overwrite it
+AKB - editing in the example-arosha branch - adding another line to check if pull command will overwrite it
 
