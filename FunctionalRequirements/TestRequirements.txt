@@ -6,3 +6,5 @@ Another new line for new branch
 AKB - testing edit of master - merge check
 AKB - adding another line to check if pull command will overwrite it
 
+DB- New test
+
