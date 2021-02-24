@@ -1,0 +1,10 @@
+﻿REQ-ID: NFR-Tester
+Description: Therapists should be able to input a query to see appointments in less than 1 minute
+Rationale: The system should not take a lot of time out the the therapists’ day
+Fit Criterion: Performance (DB)
+Related Requirement: FR2
+Originator: Arosha
+Comment: djtarrant comment for branch djtarrant-example
+Comment: Additonal Comments
+
+
