@@ -1,0 +1,9 @@
+REQ-ID: EL_NFR_17
+Description: The product shall comply with the General Data Protection Regulation (GDPR)
+Type: 17a
+Rationale: GDPR is a regulation that requires businesses to protect the personal data and privacy of EU citizens for transactions that occur 
+within EU member states. Non-compliance will result in penalties / fines.
+Fit Criterion: Obtain approval from the Data Protection Officer / Quality gateway that the product complies with GDPR 
+Originator: Elizabeth Trevatt, Head of Business
+Comments: [Emma Lambert] NFR for TMA03 1b - When interviewed and asked "Does the current system keep the sort of records that you want"? 
+Elizabeth stated that there are a few issues and needing to "keep the same records as are kept now as a starting point" may not be compliant
